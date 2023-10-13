@@ -1,0 +1,15 @@
+package roteiro1.parte2;
+
+public class Exercicio01 {
+
+	public static void main(String[] args) {
+		double salarioBase = 2500;
+		int horasExtras = 10;
+		double salarioTotal;
+		
+		System.out.println("Salário base: " + salarioBase);
+		System.out.println("Quantidade de horas extras: " + horasExtras);
+		System.out.println("Salário Total: " + (salarioBase*(horasExtras/40));
+	}
+
+}
