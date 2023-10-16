@@ -3,9 +3,11 @@
     <fullyQualifiedTypeName name="java.awt.image.ColorConvertOp"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.awt.GridLayout"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="javax.swing.JPanel"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="com.meyer.estudos.Main"/>
+    <fullyQualifiedTypeName name="roteiro4.parte4.Aluno"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="roteiro6.parte2.Tempo"/>
 </qualifiedTypeNameHistroy>
